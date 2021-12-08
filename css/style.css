@@ -1,0 +1,68 @@
+/********************* Tags *********************/
+
+  body {
+    background-color: #FCF8E8;
+  }
+
+  hr {
+    border-style: dotted none none;
+    border-color: #99A799;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  h1{
+    color: #DF7861;
+  }
+
+  h3{
+    color: #0A1D37;
+  }
+
+  a{
+    color: #6B7AA1;
+  }
+
+/********************* Classes *********************/
+
+  .imagemPerfil{
+    width: 250px;
+    height: 250px;
+  }
+
+  .imagemInteresses{
+    width: 327px;
+    height: 327px;
+  }
+
+  .linkPagina{
+    color: #6B7AA1;
+  }
+
+  .linkPagina:link{
+    color: #6B7AA1;
+  }
+
+  .linkPagina:visited{
+    color: #6B7AA1;
+  }
+
+  .linkPagina:hover{
+    color: #262A53;
+  }
+
+  .botaoVoltar{
+    color: #6B7AA1;
+  }
+
+  .botaoVoltar:link{
+    color: #6B7AA1;
+  }
+
+  .botaoVoltar:visited{
+    color: #6B7AA1;
+  }
+
+  .botaoVoltar:hover{
+    color: #262A53;
+  }
